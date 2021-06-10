@@ -1,0 +1,47 @@
+{
+    "name": "Yannick Debrée | Portfolio",
+    "short_name": "YannickDebréePortfolio",
+    "start_url": ".",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Développeur Freelance Javascript (Angular/ Nest.js)",
+    "shortcuts": [
+        {
+            "name": "Fontawesome JS script",
+            "url": "./assets/js/vendor/fontawesome/v5.15.3.js"
+        },
+        {
+            "name": "Google Fonts CSS import - Saira family (condensed/ 500-700)",
+            "url": "./assets/css/vendor/google-fonts/SairaExtraCondensed-500-700.css"
+        },
+        {
+            "name": "Google Fonts CSS import - Muli family (400-400i/ 800-800i)",
+            "url": "./assets/css/vendor/google-fonts/Muli-400-400i-800-800i.css"
+        },
+        {
+            "name": "Core theme CSS + Bootstrap",
+            "url": "./assets/css/styles.css"
+        },
+        {
+            "name": "JQuery Core JS",
+            "url": "./assets/js/vendor/jquery/3.5.1.min.js"
+        },
+        {
+            "name": "Bootstrap Core JS",
+            "url": "./assets/js/vendor/bootstrap/4.6.0.min.js"
+        },
+        {
+            "name": "Anime plugin JS",
+            "url": "./assets/js/vendor/anime/3.2.1.min.js"
+        },
+        {
+            "name": "Core theme JS",
+            "url": "./assets/js/scripts.js"
+        },
+        {
+            "name": "Core app JS",
+            "url": "./assets/js/app.js"
+        }
+    ]
+}

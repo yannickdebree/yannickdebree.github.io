@@ -1,0 +1,12 @@
+{
+  "name": "@yannickdebree/website",
+  "version": "1.0.0",
+  "repository": "git@github.com:yannickdebree/yannickdebree.github.io.git",
+  "author": "Yannick Debrée <debree.yannick13@gmail.com>",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
